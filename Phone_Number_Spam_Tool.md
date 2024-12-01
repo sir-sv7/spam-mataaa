@@ -17,8 +17,8 @@ A Python script for sending repeated POST requests to a specific API endpoint us
 1. Clone the repository or download the script:
 
    ```bash
-   git clone https://github.com/your-username/phone-number-spam-tool.git
-   cd phone-number-spam-tool
+   git clone https://github.com/sir-sv7/spam-mataaa.git
+   cd spam-mataaa
    ```
 
 2. Install the required dependencies:
@@ -30,14 +30,14 @@ A Python script for sending repeated POST requests to a specific API endpoint us
 3. Run the script:
 
    ```bash
-   python spam_tool.py
+   python main.py
    ```
 
 ---
 
 ## Usage
 
-1. Enter the desired phone number when prompted (e.g., `218931348027`).
+1. Enter the desired phone number when prompted (e.g., `2189xxxxxxxx`).
 2. The script will send repeated POST requests to the target API endpoint with the entered phone number.
 3. To stop the script, press `Ctrl+C`.
 
@@ -45,6 +45,6 @@ A Python script for sending repeated POST requests to a specific API endpoint us
 
 ## Author
 
-1. GitHub: [your-username](https://github.com/your-username)
-2. Instagram: [your-instagram](https://instagram.com/your-instagram)
-3. Discord: [your-discord](https://discordapp.com/users/your-discord)
+1. GitHub: [sir-sv7](https://github.com/sir-sv7)
+2. Instagram: [sir.sv7](https://instagram.com/sir.sv7)
+3. Discord: [u.nt](https://discord.com/users/1030252915274825728)
